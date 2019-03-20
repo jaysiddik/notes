@@ -280,6 +280,7 @@ Portfolios track your money against the market
 * [BlockKeeper](https://blockkeeper.io)
 * [BlockTray](https://www.blocktray.com) - web
 * [Blockfolio](https://blockfolio.com) - ios, android - 👍
+* [Byte](https://getbyte.app) - ios, android - 👍
 * [CoinFolio](https://www.coin-folio.com) - web - 👎 bad ux
 * [CoinFYI](https://coin.fyi) - web
 * [CoinGecko](https://www.coingecko.com/en) - web
