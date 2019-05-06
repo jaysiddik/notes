@@ -275,6 +275,7 @@ Portfolios track your money against the market
 * [Alt Pocket](https://altpocket.io) - web
 * [Apogee](https://www.apogeecrypto.com) - web - % on 24h and 7d
 * [Astronaut](http://www.astronaut.capital) - ios, android - 👍 + investment analysis on select ICOs - USA only
+* [Byte](https://getbyte.app) - ios, android - 👍
 * [BitUniverse](https://www.bituniverse.org) - ios, android - 👍
 * [Bitfolio](https://bitfolio.app) - ios, android - 👍
 * [Bitworth](http://bitworth.io) - ios - 👍
